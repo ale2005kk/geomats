@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/7e1dd09aed59f81daf2112e8c16653ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/52157e7bfeb0ac456b9af387167c71ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/8c97a693285f33924297eaa7f780cc81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ae089e7f44a4b98aefab326ed8d65b14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/7ae102be0d67d8b2ae023f7d2f522191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ff04b061039fd0bc9fabc85e2ea2a5ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4d744ab14ac1d194ab9cb5c42d8d7d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/892258d2b902e8b387dd9e34243a56db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/26a3a51f54ed836ff0539e546532c8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/c76f0bdf8d039c40df34e6df3d1e9085/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/755d55fe3d6d5ac97756cc9adc908262/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/a415f9363f5a5907438e49e37da2fd36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/e38310a7cd36ee755508a8df3d4270a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4ecda8469b77cc0f18f194bedcfa94c4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/324a35c5f9289e2a9a3bb588bd77e931/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/fd7260778ae97031f22274642d613aec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/0923267f7b4e4ec800eefcaa6f75f1d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/9caab55680201a6ccb1428285ab338e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/fc107684dba9f051a44ead147a1fa0bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/0b6cb9ed8db29670aa12c0a1b78c981c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ec27ef95d733ba60f5b99140c54d30ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/68b04de7eb08598e67c089ed939a917e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/88a138f15f121c7d4ed50547963f6407/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/bb6fd249e5b833e9f8c92ef2754a3f05/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4ecda8469b77cc0f18f194bedcfa94c4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4ecda8469b77cc0f18f194bedcfa94c4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.geomats.PerimetroQActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:19-53
+activity#com.example.geomats.CerchioActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:19-50
+activity#com.example.geomats.QuadratoActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:9-54
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:19-51
+activity#com.example.geomats.MainActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/7e1dd09aed59f81daf2112e8c16653ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/7e1dd09aed59f81daf2112e8c16653ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/52157e7bfeb0ac456b9af387167c71ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/52157e7bfeb0ac456b9af387167c71ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/8c97a693285f33924297eaa7f780cc81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/8c97a693285f33924297eaa7f780cc81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ae089e7f44a4b98aefab326ed8d65b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ae089e7f44a4b98aefab326ed8d65b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/7ae102be0d67d8b2ae023f7d2f522191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/7ae102be0d67d8b2ae023f7d2f522191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ff04b061039fd0bc9fabc85e2ea2a5ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ff04b061039fd0bc9fabc85e2ea2a5ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4d744ab14ac1d194ab9cb5c42d8d7d3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4d744ab14ac1d194ab9cb5c42d8d7d3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/892258d2b902e8b387dd9e34243a56db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/892258d2b902e8b387dd9e34243a56db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/26a3a51f54ed836ff0539e546532c8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/26a3a51f54ed836ff0539e546532c8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/c76f0bdf8d039c40df34e6df3d1e9085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/c76f0bdf8d039c40df34e6df3d1e9085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/755d55fe3d6d5ac97756cc9adc908262/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/755d55fe3d6d5ac97756cc9adc908262/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/a415f9363f5a5907438e49e37da2fd36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/a415f9363f5a5907438e49e37da2fd36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/e38310a7cd36ee755508a8df3d4270a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/e38310a7cd36ee755508a8df3d4270a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4ecda8469b77cc0f18f194bedcfa94c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4ecda8469b77cc0f18f194bedcfa94c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/324a35c5f9289e2a9a3bb588bd77e931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/324a35c5f9289e2a9a3bb588bd77e931/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/fd7260778ae97031f22274642d613aec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/fd7260778ae97031f22274642d613aec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/0923267f7b4e4ec800eefcaa6f75f1d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/0923267f7b4e4ec800eefcaa6f75f1d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/9caab55680201a6ccb1428285ab338e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/9caab55680201a6ccb1428285ab338e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/fc107684dba9f051a44ead147a1fa0bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/fc107684dba9f051a44ead147a1fa0bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/0b6cb9ed8db29670aa12c0a1b78c981c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/0b6cb9ed8db29670aa12c0a1b78c981c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ec27ef95d733ba60f5b99140c54d30ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ec27ef95d733ba60f5b99140c54d30ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/68b04de7eb08598e67c089ed939a917e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/68b04de7eb08598e67c089ed939a917e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/88a138f15f121c7d4ed50547963f6407/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/88a138f15f121c7d4ed50547963f6407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/bb6fd249e5b833e9f8c92ef2754a3f05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/bb6fd249e5b833e9f8c92ef2754a3f05/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml

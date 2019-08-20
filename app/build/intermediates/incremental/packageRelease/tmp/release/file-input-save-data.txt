@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 21 00:57:35 CEST 2019
+0.baseType=DIRECTORY
+0.base=/Users/Alessandro/Desktop/Geomats/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1
