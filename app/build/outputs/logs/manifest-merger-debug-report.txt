@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/7e1dd09aed59f81daf2112e8c16653ac/AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alessandro/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/68b04de7eb08598e67c089ed939a917e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/88a138f15f121c7d4ed50547963f6407/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/bb6fd249e5b833e9f8c92ef2754a3f05/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:3:5-34
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:5:5-27:19
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:5:5-32:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/AndroidManifest.xml:22:5-94
@@ -70,48 +70,72 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alessandro/.
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.geomats.LatoDiagonaleQ
+activity#com.example.geomats.DiagonaleAreaQ
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:9-61
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:19-49
-activity#com.example.geomats.LatoAreaQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:9-47
+activity#com.example.geomats.DiagonaleLatoQ
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:9-52
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:19-44
-activity#com.example.geomats.LatoPerimetroQ
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:19-49
+activity#com.example.geomats.DiagonaleQActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:9-56
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:19-53
+activity#com.example.geomats.AreaDiagonaleQ
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:9-52
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:19-49
+activity#com.example.geomats.AreaLatoQ
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:9-47
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:19-44
+activity#com.example.geomats.AreaQActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:19-48
+activity#com.example.geomats.LatoDiagonaleQ
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:19-49
+activity#com.example.geomats.LatoAreaQ
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:9-47
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:19-44
+activity#com.example.geomats.LatoPerimetroQ
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:19-49
 activity#com.example.geomats.LatoQActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:9-51
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:21:9-51
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:19-48
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:21:19-48
 activity#com.example.geomats.PerimetroQActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:9-56
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:9-56
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:19-53
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:19-53
 activity#com.example.geomats.CerchioActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:9-53
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:23:9-53
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:19-50
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:23:19-50
 activity#com.example.geomats.QuadratoActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:9-54
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:24:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:19-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:24:19-51
 activity#com.example.geomats.MainActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:9-26:20
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:19-47
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:25:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
 INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml

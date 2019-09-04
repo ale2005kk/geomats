@@ -28,6 +28,22 @@ public class QuadratoActivity extends AppCompatActivity {
                 latoqbstart();
             }
         });
+
+        Button areaqb = findViewById(R.id.areaqb);
+        areaqb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                areaqbstart();
+            }
+        });
+
+        Button diagonaleqb = findViewById(R.id.diagonaleqb);
+        diagonaleqb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                diagonaleqbstart();
+            }
+        });
     }
     public void perimetroqstart(){
         Intent intent = new Intent(this, PerimetroQActivity.class);
@@ -35,6 +51,14 @@ public class QuadratoActivity extends AppCompatActivity {
     }
     public void latoqbstart(){
         Intent intent = new Intent(this, LatoQActivity.class);
+        startActivity(intent);
+    }
+    public void areaqbstart(){
+        Intent intent = new Intent(this, AreaQActivity.class);
+        startActivity(intent);
+    }
+    public void diagonaleqbstart(){
+        Intent intent = new Intent(this, DiagonaleQActivity.class);
         startActivity(intent);
     }
 }

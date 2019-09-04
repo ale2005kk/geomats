@@ -17,6 +17,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.geomats.DiagonaleAreaQ" />
+        <activity android:name="com.example.geomats.DiagonaleLatoQ" />
+        <activity android:name="com.example.geomats.DiagonaleQActivity" />
+        <activity android:name="com.example.geomats.AreaDiagonaleQ" />
+        <activity android:name="com.example.geomats.AreaLatoQ" />
+        <activity android:name="com.example.geomats.AreaQActivity" />
         <activity android:name="com.example.geomats.LatoDiagonaleQ" />
         <activity android:name="com.example.geomats.LatoAreaQ" />
         <activity android:name="com.example.geomats.LatoPerimetroQ" />
