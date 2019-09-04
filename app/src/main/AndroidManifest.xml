@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PerimetroQActivity"></activity>
+        <activity android:name=".LatoDiagonaleQ"></activity>
+
+        <activity android:name=".LatoAreaQ" />
+        <activity android:name=".LatoPerimetroQ" />
+        <activity android:name=".LatoQActivity" />
+        <activity android:name=".PerimetroQActivity" />
         <activity android:name=".CerchioActivity" />
         <activity android:name=".QuadratoActivity" />
         <activity android:name=".MainActivity">

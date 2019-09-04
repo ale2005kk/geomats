@@ -20,9 +20,21 @@ public class QuadratoActivity extends AppCompatActivity {
                 perimetroqstart();
             }
         });
+
+        Button latoqb = findViewById(R.id.latoqb);
+        latoqb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                latoqbstart();
+            }
+        });
     }
     public void perimetroqstart(){
         Intent intent = new Intent(this, PerimetroQActivity.class);
+        startActivity(intent);
+    }
+    public void latoqbstart(){
+        Intent intent = new Intent(this, LatoQActivity.class);
         startActivity(intent);
     }
 }

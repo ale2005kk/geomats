@@ -1,4 +1,4 @@
-#Wed Aug 21 00:57:35 CEST 2019
+#Wed Sep 04 02:39:09 CEST 2019
 base.0=/Users/Alessandro/Desktop/Geomats/app/build/intermediates/dex/release/mergeDexRelease/out
 path.0=classes.dex
 renamed.0=classes.dex
