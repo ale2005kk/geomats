@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Geomats</string>
+    <string name="title_activity_base_r">BaseRActivity</string>
 </resources>

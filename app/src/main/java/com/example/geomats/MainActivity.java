@@ -28,17 +28,25 @@ public class MainActivity extends AppCompatActivity {
                 openceactivity();
             }
         });
+
+        Button rettangolob = findViewById(R.id.rettangolob);
+        rettangolob.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                rettangolobstart();
+            }
+        });
     }
-
-
-
-
     public void openqactivity(){
         Intent intent = new Intent(this, QuadratoActivity.class);
         startActivity(intent);
     }
     public void openceactivity(){
         Intent intent = new Intent(this, CerchioActivity.class);
+        startActivity(intent);
+    }
+    public void rettangolobstart(){
+        Intent intent = new Intent(this, RettangoloActivity.class);
         startActivity(intent);
     }
 }

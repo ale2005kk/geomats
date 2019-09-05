@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Sep 04 02:42:47 CEST 2019
+#Fri Sep 06 01:45:32 CEST 2019
 1.base=/Users/Alessandro/Desktop/Geomats/app/build/intermediates/dex/debug/mergeExtDexDebug/out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY

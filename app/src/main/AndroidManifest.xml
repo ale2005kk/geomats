@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DiametroAreaC"></activity>
+        <activity android:name=".BaseDiagAltR"></activity>
+        <activity android:name=".BaseArAltezR" />
+        <activity android:name=".BasePerAltR" />
+        <activity android:name=".BaseRActivity" />
+        <activity android:name=".AreaRActivity" />
+        <activity android:name=".PerimetroRActivity" />
+        <activity android:name=".RettangoloActivity" />
+        <activity android:name=".DiametroAreaC" />
         <activity android:name=".DiametroPerimetroC" />
         <activity android:name=".DiametroRaggioC" />
         <activity android:name=".DiametroCActivity" />

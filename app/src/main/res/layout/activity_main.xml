@@ -15,7 +15,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                app:layout_constraintTop_toTopOf="parent">
+                app:layout_constraintTop_toTopOf="parent"
+                android:id="@+id/lv1">
                 <Button
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
@@ -28,6 +29,23 @@
                     android:layout_weight="1"
                     android:background="@drawable/cerchio"
                     android:id="@+id/cerchiob"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                app:layout_constraintTop_toBottomOf="@+id/lv1">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/rettangolo"
+                    android:id="@+id/rettangolob"/>
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/triangolo"
+                    android:id="@+id/triangolob"/>
             </LinearLayout>
         </android.support.constraint.ConstraintLayout>
 

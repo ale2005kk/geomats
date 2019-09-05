@@ -17,7 +17,15 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.geomats.BaseDiagAltR" />
+        <activity android:name="com.example.geomats.BaseArAltezR" />
+        <activity android:name="com.example.geomats.BasePerAltR" />
+        <activity android:name="com.example.geomats.BaseRActivity" />
+        <activity android:name="com.example.geomats.AreaRActivity" />
+        <activity android:name="com.example.geomats.PerimetroRActivity" />
+        <activity android:name="com.example.geomats.RettangoloActivity" />
         <activity android:name="com.example.geomats.DiametroAreaC" />
         <activity android:name="com.example.geomats.DiametroPerimetroC" />
         <activity android:name="com.example.geomats.DiametroRaggioC" />
