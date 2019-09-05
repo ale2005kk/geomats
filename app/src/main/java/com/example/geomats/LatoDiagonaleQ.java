@@ -22,10 +22,19 @@ public class LatoDiagonaleQ extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String stringa = diagonalelqtext.getText().toString();
-                Double diagonale = Double.parseDouble(stringa);
-                diagonale = (diagonale / (Math.sqrt(2)));
-                String risultato = Double.toString(diagonale);
-                numtextdlq.setText(risultato);
+                Double diagonale = null;
+                try {
+                    diagonale = Double.parseDouble(stringa);
+                }
+                catch (Exception e){
+                    numtextdlq.setText("Puoi inserire solo numeri, niente lettere o simboli, grazie");
+                    diagonale = null;
+                }
+                if (diagonale != null){
+                    diagonale = (diagonale / (Math.sqrt(2)));
+                    String risultato = Double.toString(diagonale);
+                    numtextdlq.setText(risultato);
+                }
             }
         });
     }

@@ -22,10 +22,19 @@ public class DiagonaleAreaQ extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String stringa = areadqt.getText().toString();
-                Double area = Double.parseDouble(stringa);
-                area = Math.sqrt(2 * (area));
-                String risultato = Double.toString(area);
-                numtextadqte.setText(risultato);
+                Double area = null;
+                try {
+                    area = Double.parseDouble(stringa);
+                }
+                catch (Exception e){
+                    numtextadqte.setText("Puoi inserire solo numeri, niente lettere o simboli, grazie");
+                    area = null;
+                }
+                if (area != null){
+                    area = Math.sqrt(2 * (area));
+                    String risultato = Double.toString(area);
+                    numtextadqte.setText(risultato);
+                }
             }
         });
     }

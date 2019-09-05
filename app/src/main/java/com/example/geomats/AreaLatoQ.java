@@ -22,10 +22,19 @@ public class AreaLatoQ extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String stringa = arealqt.getText().toString();
-                Double lato = Double.parseDouble(stringa);
-                lato = lato * lato;
-                String risultato = Double.toString(lato);
-                numtextalqt.setText(risultato);
+                Double lato = null;
+                try {
+                    lato = Double.parseDouble(stringa);
+                }
+                catch (Exception e){
+                    numtextalqt.setText("Puoi inserire solo numeri, niente lettere o simboli, grazie");
+                    lato = null;
+                }
+                if (lato != null){
+                    lato = lato * lato;
+                    String risultato = Double.toString(lato);
+                    numtextalqt.setText(risultato);
+                }
             }
         });
     }

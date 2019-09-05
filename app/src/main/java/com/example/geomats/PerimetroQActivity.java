@@ -22,10 +22,19 @@ public class PerimetroQActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String stringa = latotextq.getText().toString();
-                double num = Double.parseDouble(stringa);
-                num = num * 4;
-                String ris = Double.toString(num);
-                numtext.setText(ris);
+                Double num = null;
+                try {
+                    num = Double.parseDouble(stringa);
+                }
+                catch (Exception e){
+                    numtext.setText("Puoi inserire solo numeri, niente lettere o simboli, grazie");
+                    num = null;
+                }
+                if (num != null){
+                    num = num * 4;
+                    String ris = Double.toString(num);
+                    numtext.setText(ris);
+                }
             }
         });
     }

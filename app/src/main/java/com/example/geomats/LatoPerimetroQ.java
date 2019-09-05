@@ -23,10 +23,19 @@ public class LatoPerimetroQ extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String stringa = perimetroltq.getText().toString();
-                Double perimetro = Double.parseDouble(stringa);
-                perimetro = perimetro / 4;
-                String risultato = Double.toString(perimetro);
-                numtextlpq.setText(risultato);
+                Double perimetro = null;
+                try {
+                    perimetro = Double.parseDouble(stringa);
+                }
+                catch (Exception e){
+                    numtextlpq.setText("Puoi inserire solo numeri, niente lettere o simboli, grazie");
+                    perimetro = null;
+                }
+                if (perimetro != null){
+                    perimetro = perimetro / 4;
+                    String risultato = Double.toString(perimetro);
+                    numtextlpq.setText(risultato);
+                }
             }
         });
     }
