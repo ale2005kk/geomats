@@ -36,6 +36,22 @@ public class RettangoloActivity extends AppCompatActivity {
                 baserbstart();
             }
         });
+
+        Button altezzarb = findViewById(R.id.altezzarb);
+        altezzarb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                altezzarbstart();
+            }
+        });
+
+        Button diagonalerb = findViewById(R.id.diagonalerb);
+        diagonalerb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                diagonalerbstart();
+            }
+        });
     }
     public void perimetrorbstart(){
         Intent intent = new Intent(this, PerimetroRActivity.class);
@@ -47,6 +63,14 @@ public class RettangoloActivity extends AppCompatActivity {
     }
     public void baserbstart(){
         Intent intent = new Intent(this, BaseRActivity.class);
+        startActivity(intent);
+    }
+    public void altezzarbstart(){
+        Intent intent = new Intent(this, AltezzaRActivity.class);
+        startActivity(intent);
+    }
+    public void diagonalerbstart(){
+        Intent intent = new Intent(this, DiagonaleRActivity.class);
         startActivity(intent);
     }
 }

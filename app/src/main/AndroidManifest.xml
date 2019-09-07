@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".BaseDiagAltR"></activity>
+        <activity android:name=".DiagonaleRActivity"></activity>
+        <activity android:name=".AltezzaDiagBaseR" />
+        <activity android:name=".AltezzaAreaBaseR" />
+        <activity android:name=".AltezzaPerBaseR" />
+        <activity android:name=".AltezzaRActivity" />
+        <activity android:name=".BaseDiagAltR" />
         <activity android:name=".BaseArAltezR" />
         <activity android:name=".BasePerAltR" />
         <activity android:name=".BaseRActivity" />

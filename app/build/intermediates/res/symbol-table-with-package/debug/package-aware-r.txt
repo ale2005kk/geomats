@@ -995,6 +995,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable altezza
 drawable areaaltezza
+drawable areabase
 drawable areaq
 drawable avd_hide_password
 drawable avd_show_password
@@ -1008,6 +1009,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable diagonalealtezza
+drawable diagonalebase
 drawable diagonaleq
 drawable diametro
 drawable ic_launcher_background
@@ -1033,6 +1035,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable perimetroaltezza
+drawable perimetrobase
 drawable perimetroq
 drawable quadrato
 drawable raggio
@@ -1071,11 +1074,14 @@ id all
 id altezzaart
 id altezzabrt
 id altezzadbrt
+id altezzadrt
 id altezzapbrt
 id altezzaprt
 id altezzarb
 id always
 id areaaltezzabrb
+id areabart
+id areabaserb
 id areabrt
 id areacb
 id areadcb
@@ -1092,7 +1098,11 @@ id areatextql
 id async
 id auto
 id barrier
+id baseaart
 id baseart
+id basedart
+id basedrt
+id basepart
 id baseprt
 id baserb
 id beginning
@@ -1123,6 +1133,8 @@ id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
 id diagonalealtezzabrb
+id diagonalebart
+id diagonalebaserb
 id diagonalebrt
 id diagonalelqtext
 id diagonaleqab
@@ -1163,6 +1175,8 @@ id icon_group
 id ifRoom
 id image
 id info
+id inviabuttonaabrb
+id inviabuttonadbrb
 id inviabuttonadcb
 id inviabuttonadqb
 id inviabuttonalq
@@ -1175,6 +1189,7 @@ id inviabuttonbparb
 id inviabuttondacb
 id inviabuttondlq
 id inviabuttondpcb
+id inviabuttondrb
 id inviabuttondrct
 id inviabuttonldqb
 id inviabuttonpdcb
@@ -1219,6 +1234,8 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id numtext
+id numtextaabrt
+id numtextadbrt
 id numtextadct
 id numtextadqt
 id numtextadqte
@@ -1229,10 +1246,12 @@ id numtextart
 id numtextbaart
 id numtextbdart
 id numtextbparb
+id numtextbpart
 id numtextdact
 id numtextdlq
 id numtextdpct
 id numtextdrct
+id numtextdrt
 id numtextldqt
 id numtextlpq
 id numtextpdct
@@ -1249,6 +1268,8 @@ id parentPanel
 id parent_matrix
 id percent
 id perimetroaltezzabrb
+id perimetrobart
+id perimetrobaserb
 id perimetrobrt
 id perimetrocb
 id perimetrodcb
@@ -1399,6 +1420,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_altezza_area_base_r
+layout activity_altezza_diag_base_r
+layout activity_altezza_per_base_r
+layout activity_altezza_r
 layout activity_area_c
 layout activity_area_diagonale_q
 layout activity_area_diametro_c
@@ -1414,6 +1439,7 @@ layout activity_cerchio
 layout activity_diagonale_area_q
 layout activity_diagonale_lato_q
 layout activity_diagonale_q
+layout activity_diagonale_r
 layout activity_diametro_area_c
 layout activity_diametro_c
 layout activity_diametro_perimetro_c

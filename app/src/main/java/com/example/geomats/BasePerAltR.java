@@ -41,7 +41,7 @@ public class BasePerAltR extends AppCompatActivity {
                     altezza = null;
                 }
                 Double risultato = null;
-                if (perimetro != null && altezza != 0){
+                if (perimetro != null && altezza != null){
                     risultato = (perimetro - (2 * altezza)) / 2;
                     String risult = Double.toString(risultato);
                     numtextbparb.setText(risult);

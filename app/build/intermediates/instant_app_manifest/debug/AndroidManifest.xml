@@ -19,6 +19,11 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.geomats.DiagonaleRActivity" />
+        <activity android:name="com.example.geomats.AltezzaDiagBaseR" />
+        <activity android:name="com.example.geomats.AltezzaAreaBaseR" />
+        <activity android:name="com.example.geomats.AltezzaPerBaseR" />
+        <activity android:name="com.example.geomats.AltezzaRActivity" />
         <activity android:name="com.example.geomats.BaseDiagAltR" />
         <activity android:name="com.example.geomats.BaseArAltezR" />
         <activity android:name="com.example.geomats.BasePerAltR" />
