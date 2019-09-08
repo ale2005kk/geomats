@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DiagonaleRActivity"></activity>
+        <activity android:name=".AreaTActivity"></activity>
+        <activity android:name=".PerimetroTActivity" />
+        <activity android:name=".TriangoloActivity" />
+        <activity android:name=".DiagonaleRActivity" />
         <activity android:name=".AltezzaDiagBaseR" />
         <activity android:name=".AltezzaAreaBaseR" />
         <activity android:name=".AltezzaPerBaseR" />

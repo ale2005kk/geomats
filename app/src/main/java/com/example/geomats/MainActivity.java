@@ -36,6 +36,14 @@ public class MainActivity extends AppCompatActivity {
                 rettangolobstart();
             }
         });
+
+        Button triangolob = findViewById(R.id.triangolob);
+        triangolob.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                triangolobstart();
+            }
+        });
     }
     public void openqactivity(){
         Intent intent = new Intent(this, QuadratoActivity.class);
@@ -47,6 +55,10 @@ public class MainActivity extends AppCompatActivity {
     }
     public void rettangolobstart(){
         Intent intent = new Intent(this, RettangoloActivity.class);
+        startActivity(intent);
+    }
+    public void triangolobstart(){
+        Intent intent = new Intent(this, TriangoloActivity.class);
         startActivity(intent);
     }
 }

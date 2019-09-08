@@ -18,6 +18,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.geomats.AreaTActivity" />
+        <activity android:name="com.example.geomats.PerimetroTActivity" />
+        <activity android:name="com.example.geomats.TriangoloActivity" />
         <activity android:name="com.example.geomats.DiagonaleRActivity" />
         <activity android:name="com.example.geomats.AltezzaDiagBaseR" />
         <activity android:name="com.example.geomats.AltezzaAreaBaseR" />
