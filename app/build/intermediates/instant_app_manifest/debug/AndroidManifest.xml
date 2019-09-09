@@ -17,8 +17,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.geomats.AreaLatiPerimetroT" />
+        <activity android:name="com.example.geomats.ABAltezzaCAreaT" />
+        <activity android:name="com.example.geomats.ACAltezzaBAreaT" />
+        <activity android:name="com.example.geomats.BCAltezzaAAreaT" />
         <activity android:name="com.example.geomats.AreaTActivity" />
         <activity android:name="com.example.geomats.PerimetroTActivity" />
         <activity android:name="com.example.geomats.TriangoloActivity" />
