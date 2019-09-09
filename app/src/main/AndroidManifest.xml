@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AreaLatiPerimetroT"></activity>
+        <activity android:name=".AltezzaASemPT"></activity>
+        <activity android:name=".AltezzaLatiSemipTB" />
+        <activity android:name=".AltezzaCActivityT" />
+        <activity android:name=".AltezzaBActivityT" />
+        <activity android:name=".AltezzaAActivityT" />
+        <activity android:name=".AltezzaAreaLatoT" />
+        <activity android:name=".AltezzaTActivity" />
+        <activity android:name=".AreaLatiPerimetroT" />
         <activity android:name=".AreaABAltezzaCT" />
         <activity android:name=".AreaACAltezzaBT" />
         <activity android:name=".AreaBCAltezzaT" />

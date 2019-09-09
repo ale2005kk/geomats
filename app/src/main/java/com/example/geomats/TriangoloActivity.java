@@ -28,6 +28,14 @@ public class TriangoloActivity extends AppCompatActivity {
                 areatbstart();
             }
         });
+
+        Button altezzatb = findViewById(R.id.altezzatb);
+        altezzatb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                altezzatbstart();
+            }
+        });
     }
     public void perimetrotbstart(){
         Intent intent = new Intent(this, PerimetroTActivity.class);
@@ -35,6 +43,10 @@ public class TriangoloActivity extends AppCompatActivity {
     }
     public void areatbstart(){
         Intent intent = new Intent(this, AreaTActivity.class);
+        startActivity(intent);
+    }
+    public void altezzatbstart(){
+        Intent intent = new Intent(this, AltezzaTActivity.class);
         startActivity(intent);
     }
 }
