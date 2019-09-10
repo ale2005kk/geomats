@@ -17,6 +17,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.geomats.RaggioCirExinscT" />
+        <activity android:name="com.example.geomats.RaggioCirCircosT" />
+        <activity android:name="com.example.geomats.RaggioCirInscActivityT" />
+        <activity android:name="com.example.geomats.AltezzaCSemPT" />
+        <activity android:name="com.example.geomats.AltezzaBSemPT" />
         <activity android:name="com.example.geomats.AltezzaASemPT" />
         <activity android:name="com.example.geomats.AltezzaLatiSemipTB" />
         <activity android:name="com.example.geomats.AltezzaCActivityT" />

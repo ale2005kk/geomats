@@ -20,9 +20,33 @@ public class AltezzaLatiSemipTB extends AppCompatActivity {
                 altezzaasempbstart();
             }
         });
+
+        Button altezzabsempb = findViewById(R.id.altezzabsempb);
+        altezzaasempb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                altezzabsempbstart();
+            }
+        });
+
+        Button altezzacsempb = findViewById(R.id.altezzacsempb);
+        altezzacsempb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                altezzacsempbstart();
+            }
+        });
     }
     public void altezzaasempbstart(){
         Intent intent = new Intent(this, AltezzaASemPT.class);
+        startActivity(intent);
+    }
+    public void altezzabsempbstart(){
+        Intent intent = new Intent(this, AltezzaBSemPT.class);
+        startActivity(intent);
+    }
+    public void altezzacsempbstart(){
+        Intent intent = new Intent(this, AltezzaCSemPT.class);
         startActivity(intent);
     }
 }

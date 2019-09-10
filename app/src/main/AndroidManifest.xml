@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AltezzaASemPT"></activity>
+        <activity android:name=".RaggioCirExinscT"></activity>
+        <activity android:name=".RaggioCirCircosT" />
+        <activity android:name=".RaggioCirInscActivityT" />
+        <activity android:name=".AltezzaCSemPT" />
+        <activity android:name=".AltezzaBSemPT" />
+        <activity android:name=".AltezzaASemPT" />
         <activity android:name=".AltezzaLatiSemipTB" />
         <activity android:name=".AltezzaCActivityT" />
         <activity android:name=".AltezzaBActivityT" />

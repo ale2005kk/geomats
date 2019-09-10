@@ -100,7 +100,7 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:background="@drawable/altezzasemip"
+                    android:background="@drawable/bisettrice"
                     android:id="@+id/altezzasemiptb"/>
                 <Button
                     android:layout_width="0dp"
@@ -124,7 +124,7 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:background="@drawable/bisettrice"
+                    android:background="@drawable/triangoloequil"
                     android:id="@+id/bisettricetb"/>
             </LinearLayout>
             <LinearLayout
@@ -144,21 +144,6 @@
                     android:layout_weight="1"
                     android:background="@drawable/triangoloret"
                     android:id="@+id/triangolorettb"/>
-            </LinearLayout>
-            <LinearLayout
-                android:layout_width="200dp"
-                android:layout_height="200dp"
-
-                android:layout_marginStart="8dp"
-                android:layout_marginEnd="8dp"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/lv8">
-                <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:background="@drawable/triangoloequil"
-                    android:id="@+id/triangoloequiltb"/>
             </LinearLayout>
         </android.support.constraint.ConstraintLayout>
     </ScrollView>

@@ -36,6 +36,29 @@ public class TriangoloActivity extends AppCompatActivity {
                 altezzatbstart();
             }
         });
+
+        Button raggiocirinsctb = findViewById(R.id.raggiocirinsctb);
+        raggiocirinsctb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                raggiocirinsctbstart();
+            }
+        });
+
+        Button raggiocircirctb = findViewById(R.id.raggiocircirctb);
+        raggiocircirctb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                raggiocircirctbstart();
+            }
+        });
+
+        Button raggiocirexinscrtb = findViewById(R.id.raggiocirexinscrtb);
+        raggiocirexinscrtb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) { raggiocirexinscrtbstart();
+            }
+        });
     }
     public void perimetrotbstart(){
         Intent intent = new Intent(this, PerimetroTActivity.class);
@@ -47,6 +70,18 @@ public class TriangoloActivity extends AppCompatActivity {
     }
     public void altezzatbstart(){
         Intent intent = new Intent(this, AltezzaTActivity.class);
+        startActivity(intent);
+    }
+    public void raggiocirinsctbstart(){
+        Intent intent = new Intent(this, RaggioCirInscActivityT.class);
+        startActivity(intent);
+    }
+    public void raggiocircirctbstart(){
+        Intent intent = new Intent(this, RaggioCirCircosT.class);
+        startActivity(intent);
+    }
+    public void raggiocirexinscrtbstart(){
+        Intent intent = new Intent(this, RaggioCirExinscT.class);
         startActivity(intent);
     }
 }
