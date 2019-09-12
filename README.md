@@ -23,3 +23,8 @@ Where can I find the Activity files?
 ```
 /app/src/main/res/layout/
 ```
+Where can I find the res file?
+---
+```
+/app/src/main/res/drawable/
+```
