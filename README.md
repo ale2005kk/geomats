@@ -10,7 +10,7 @@ Alessandro Coniglio
 
 What is geomats?
 ----
-Geomats is a mathematical software for the solution of problems of plane and / or solid geometry
+Geomats is a mathematical software for the solution of problems of plane and solid geometry
 
 Where can I find the java code files?
 ----
