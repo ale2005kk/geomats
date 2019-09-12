@@ -59,6 +59,30 @@ public class TriangoloActivity extends AppCompatActivity {
             public void onClick(View v) { raggiocirexinscrtbstart();
             }
         });
+
+        Button bisettricetb = findViewById(R.id.bisettricetb);
+        bisettricetb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                bisettricetbstart();
+            }
+        });
+
+        Button medianatb = findViewById(R.id.medianatb);
+        medianatb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                medianatbstart();
+            }
+        });
+
+        Button angoloesttb = findViewById(R.id.angoloesttb);
+        angoloesttb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                angoloesttbstart();
+            }
+        });
     }
     public void perimetrotbstart(){
         Intent intent = new Intent(this, PerimetroTActivity.class);
@@ -82,6 +106,18 @@ public class TriangoloActivity extends AppCompatActivity {
     }
     public void raggiocirexinscrtbstart(){
         Intent intent = new Intent(this, RaggioCirExinscT.class);
+        startActivity(intent);
+    }
+    public void bisettricetbstart(){
+        Intent intent = new Intent(this, BisettriceActivityT.class);
+        startActivity(intent);
+    }
+    public void medianatbstart(){
+        Intent intent = new Intent(this, MedianaActivityT.class);
+        startActivity(intent);
+    }
+    public void angoloesttbstart(){
+        Intent intent = new Intent(this, AngoloEsternoActivityT.class);
         startActivity(intent);
     }
 }

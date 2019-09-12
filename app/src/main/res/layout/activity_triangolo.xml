@@ -101,7 +101,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:background="@drawable/bisettrice"
-                    android:id="@+id/altezzasemiptb"/>
+                    android:id="@+id/bisettricetb"/>
                 <Button
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
@@ -118,14 +118,14 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:background="@drawable/angoloest"
+                    android:background="@drawable/angoloesternobis"
                     android:id="@+id/angoloesttb"/>
                 <Button
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:background="@drawable/triangoloequil"
-                    android:id="@+id/bisettricetb"/>
+                    android:id="@+id/triangoloequiltb"/>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
