@@ -83,6 +83,14 @@ public class TriangoloActivity extends AppCompatActivity {
                 angoloesttbstart();
             }
         });
+
+        Button triangoloequiltb = findViewById(R.id.triangoloequiltb);
+        triangoloequiltb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                triangoloequiltbstart();
+            }
+        });
     }
     public void perimetrotbstart(){
         Intent intent = new Intent(this, PerimetroTActivity.class);
@@ -118,6 +126,10 @@ public class TriangoloActivity extends AppCompatActivity {
     }
     public void angoloesttbstart(){
         Intent intent = new Intent(this, AngoloEsternoActivityT.class);
+        startActivity(intent);
+    }
+    public void triangoloequiltbstart(){
+        Intent intent = new Intent(this, TriangoloEquilateroActivity.class);
         startActivity(intent);
     }
 }

@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AngoloEsternoCT"></activity>
+        <activity android:name=".PerimetroRaggioTE"></activity>
+        <activity android:name=".PerimetroApotemaTE" />
+        <activity android:name=".PerimetroAltezzaTE" />
+        <activity android:name=".PerimetroLatoTE" />
+        <activity android:name=".PerimetroTEActivity" />
+        <activity android:name=".TriangoloEquilateroActivity" />
+        <activity android:name=".AngoloEsternoCT" />
         <activity android:name=".AngoloEsternoBT" />
         <activity android:name=".AngoloEsternoAT" />
         <activity android:name=".AngoloEsternoActivityT" />
