@@ -20,9 +20,21 @@ public class TriangoloEquilateroActivity extends AppCompatActivity {
                 perimetrotebstart();
             }
         });
+
+        Button areateb = findViewById(R.id.areateb);
+        areateb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                areatebstart();
+            }
+        });
     }
     public void perimetrotebstart(){
         Intent intent = new Intent(this, PerimetroTEActivity.class);
+        startActivity(intent);
+    }
+    public void areatebstart(){
+        Intent intent = new Intent(this, AreaTriangoloEqActivity.class);
         startActivity(intent);
     }
 }

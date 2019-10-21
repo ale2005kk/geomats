@@ -12,16 +12,16 @@
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_areaq.png.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/drawable/areaq.png"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_areaq.png.flat",
-        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/drawable/areaq.png"
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/color_mtrl_tabs_icon_color_selector.xml.flat",
@@ -152,32 +152,32 @@
         "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_area_abaltezza_c_t.xml"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/color_mtrl_btn_text_btn_ripple_color.xml.flat",
-        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/res/color/mtrl_btn_text_btn_ripple_color.xml"
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/3dcd8dc5ab83957729e49bf8bd89c35d/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/color_mtrl_btn_text_btn_ripple_color.xml.flat",
+        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/res/color/mtrl_btn_text_btn_ripple_color.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -240,12 +240,12 @@
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
-        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/res/layout/mtrl_layout_snackbar.xml"
-    },
-    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_cerchio.png.flat",
         "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/drawable/cerchio.png"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
+        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/res/layout/mtrl_layout_snackbar.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -312,12 +312,12 @@
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
@@ -384,12 +384,12 @@
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
-        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
@@ -892,6 +892,10 @@
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_apotema.png.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/drawable/apotema.png"
+    },
+    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1024,6 +1028,10 @@
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_activity_perimetro_apotema_te.xml.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_perimetro_apotema_te.xml"
+    },
+    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_acaltezzab.png.flat",
         "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/drawable/acaltezzab.png"
     },
@@ -1102,6 +1110,10 @@
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_activity_perimetro_altezza_te.xml.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_perimetro_altezza_te.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1312,6 +1324,10 @@
         "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_raggio_cir_exinsc_t.xml"
     },
     {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_activity_perimetro_raggio_te.xml.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_perimetro_raggio_te.xml"
+    },
+    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/anim_abc_tooltip_exit.xml.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/anim/abc_tooltip_exit.xml"
     },
@@ -1330,6 +1346,10 @@
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_activity_triangolo_equilatero.xml.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_triangolo_equilatero.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_checked_circle.xml.flat",
@@ -1968,6 +1988,10 @@
         "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_altezza_at.xml"
     },
     {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_activity_perimetro_lato_te.xml.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_perimetro_lato_te.xml"
+    },
+    {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
@@ -2034,6 +2058,10 @@
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_activity_bisettrice_t.xml.flat",
         "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_bisettrice_t.xml"
+    },
+    {
+        "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/layout_activity_perimetro_te.xml.flat",
+        "source": "/Users/Alessandro/Desktop/Geomats/app/src/main/res/layout/activity_perimetro_te.xml"
     },
     {
         "merged": "/Users/Alessandro/Desktop/Geomats/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",

@@ -17,6 +17,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.geomats.AltezzaLatoAreaTE" />
+        <activity android:name="com.example.geomats.AreaTriangoloEqActivity" />
         <activity android:name="com.example.geomats.PerimetroRaggioTE" />
         <activity android:name="com.example.geomats.PerimetroApotemaTE" />
         <activity android:name="com.example.geomats.PerimetroAltezzaTE" />
