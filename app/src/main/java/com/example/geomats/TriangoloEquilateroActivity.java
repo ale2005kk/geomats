@@ -44,6 +44,22 @@ public class TriangoloEquilateroActivity extends AppCompatActivity {
                 latotebstart();
             }
         });
+
+        Button altezzateb = findViewById(R.id.altezzateb);
+        altezzateb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                altezzatebstart();
+            }
+        });
+
+        Button raggiocircircteb = findViewById(R.id.raggiocircircteb);
+        raggiocircircteb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                raggiocircirctebstart();
+            }
+        });
     }
     public void perimetrotebstart(){
         Intent intent = new Intent(this, PerimetroTEActivity.class);
@@ -59,6 +75,14 @@ public class TriangoloEquilateroActivity extends AppCompatActivity {
     }
     public void latotebstart(){
         Intent intent = new Intent(this, LatoTeActivity.class);
+        startActivity(intent);
+    }
+    public void altezzatebstart(){
+        Intent intent = new Intent(this, AltezzaTEActivity.class);
+        startActivity(intent);
+    }
+    public void raggiocircirctebstart(){
+        Intent intent = new Intent(this, RaggioCirCircTEActivity.class);
         startActivity(intent);
     }
 }

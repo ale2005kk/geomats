@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LatoRaggioCirCircTE"></activity>
+        <activity android:name=".RaggioCirCircAltezzaTE"></activity>
+        <activity android:name=".RaggioCirCircLatoTE" />
+        <activity android:name=".RaggioCirCircTEActivity" />
+        <activity android:name=".AltezzaRaggioCirCircTE" />
+        <activity android:name=".AltezzaApotemaTE" />
+        <activity android:name=".AltezzaPerimetroTE" />
+        <activity android:name=".AltezzaLatoTE" />
+        <activity android:name=".AltezzaTEActivity" />
+        <activity android:name=".LatoRaggioCirCircTE" />
         <activity android:name=".LatoApotemaTE" />
         <activity android:name=".LatoAltezzaTE" />
         <activity android:name=".LatoPerimetroTE" />
