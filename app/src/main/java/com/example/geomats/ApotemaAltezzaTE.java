@@ -31,8 +31,7 @@ public class ApotemaAltezzaTE extends AppCompatActivity {
                     altezza = null;
                 }
                 if (altezza != null){
-                    Double risultato = null;
-                    risultato = (1 /3) * altezza;
+                    Double risultato = altezza / 3;
                     String risult = Double.toString(risultato);
                     numtextaaptet.setText(risult);
                 }

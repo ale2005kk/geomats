@@ -1,4 +1,4 @@
-#Sun Sep 15 10:28:07 CEST 2019
+#Fri Oct 25 12:17:20 CEST 2019
 base.0=/Users/Alessandro/Desktop/Geomats/app/build/intermediates/dex/debug/mergeExtDexDebug/out
 path.1=classes.dex
 renamed.1=classes2.dex
