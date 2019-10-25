@@ -28,6 +28,22 @@ public class TriangoloEquilateroActivity extends AppCompatActivity {
                 areatebstart();
             }
         });
+
+        Button apotemateb = findViewById(R.id.apotemateb);
+        apotemateb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                apotematebstart();
+            }
+        });
+
+        Button latoteb = findViewById(R.id.latoteb);
+        latoteb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                latotebstart();
+            }
+        });
     }
     public void perimetrotebstart(){
         Intent intent = new Intent(this, PerimetroTEActivity.class);
@@ -35,6 +51,14 @@ public class TriangoloEquilateroActivity extends AppCompatActivity {
     }
     public void areatebstart(){
         Intent intent = new Intent(this, AreaTriangoloEqActivity.class);
+        startActivity(intent);
+    }
+    public void apotematebstart(){
+        Intent intent = new Intent(this, ApotemaTEActivity.class);
+        startActivity(intent);
+    }
+    public void latotebstart(){
+        Intent intent = new Intent(this, LatoTeActivity.class);
         startActivity(intent);
     }
 }

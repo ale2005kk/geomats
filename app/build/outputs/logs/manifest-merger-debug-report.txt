@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
 MERGED from [com.android.support:design:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/4a03db672d831934cfe1a6a0691a4b69/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:2:1-11:12
@@ -35,25 +35,25 @@ MERGED from [com.android.support:interpolator:28.0.0] /Users/Alessandro/.gradle/
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/ec27ef95d733ba60f5b99140c54d30ef/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/68b04de7eb08598e67c089ed939a917e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/88a138f15f121c7d4ed50547963f6407/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
+INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
 	package
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:3:5-34
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-99:12
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:1-111:12
 		INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:5:5-97:19
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:5:5-109:19
 MERGED from [com.android.support:design:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/db190f0215f50745c77d9cb170fbff57/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alessandro/.gradle/caches/transforms-2/files-2.1/612415a23eecc37a0b7cd8edc0376391/AndroidManifest.xml:9:5-20
@@ -76,332 +76,380 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alessandro/.
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.geomats.LatoRaggioCirCircTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:19-54
+activity#com.example.geomats.LatoApotemaTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:19-48
+activity#com.example.geomats.LatoAltezzaTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:19-48
+activity#com.example.geomats.LatoPerimetroTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:19-50
+activity#com.example.geomats.LatoTeActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:19-49
+activity#com.example.geomats.ApotemaAltezzaTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:19-51
+activity#com.example.geomats.ApotemaLatoTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:19-48
+activity#com.example.geomats.ApotemaTEActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:19-52
+activity#com.example.geomats.AreaRagCicCircTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:19-51
+activity#com.example.geomats.AreaApotemaTe
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:21:19-48
+activity#com.example.geomats.AreaAltezzaTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:19-48
+activity#com.example.geomats.AreaLatoTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:23:19-45
 activity#com.example.geomats.AltezzaLatoAreaTE
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:9-64
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:12:19-52
-activity#com.example.geomats.AreaTriangoloEqActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:9-61
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:13:19-58
-activity#com.example.geomats.PerimetroRaggioTE
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:9-55
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:14:19-52
-activity#com.example.geomats.PerimetroApotemaTE
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:9-56
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:15:19-53
-activity#com.example.geomats.PerimetroAltezzaTE
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:9-56
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:16:19-53
-activity#com.example.geomats.PerimetroLatoTE
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:9-53
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:17:19-50
-activity#com.example.geomats.PerimetroTEActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:9-57
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:18:19-54
-activity#com.example.geomats.TriangoloEquilateroActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:9-65
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:19:19-62
-activity#com.example.geomats.AngoloEsternoCT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:9-53
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:20:19-50
-activity#com.example.geomats.AngoloEsternoBT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:21:9-53
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:21:19-50
-activity#com.example.geomats.AngoloEsternoAT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:9-53
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:22:19-50
-activity#com.example.geomats.AngoloEsternoActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:23:9-60
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:23:19-57
-activity#com.example.geomats.MedianaCActivityT
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:24:9-55
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:24:19-52
-activity#com.example.geomats.MedianaBActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:25:9-55
+activity#com.example.geomats.AreaTriangoloEqActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:25:9-61
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:25:19-52
-activity#com.example.geomats.MedianaAActivityT
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:25:19-58
+activity#com.example.geomats.PerimetroRaggioTE
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:26:9-55
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:26:19-52
+activity#com.example.geomats.PerimetroApotemaTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:27:9-56
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:27:19-53
+activity#com.example.geomats.PerimetroAltezzaTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:28:19-53
+activity#com.example.geomats.PerimetroLatoTE
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:29:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:29:19-50
+activity#com.example.geomats.PerimetroTEActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:30:19-54
+activity#com.example.geomats.TriangoloEquilateroActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:31:9-65
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:31:19-62
+activity#com.example.geomats.AngoloEsternoCT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:32:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:32:19-50
+activity#com.example.geomats.AngoloEsternoBT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:33:19-50
+activity#com.example.geomats.AngoloEsternoAT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:34:19-50
+activity#com.example.geomats.AngoloEsternoActivityT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:35:19-57
+activity#com.example.geomats.MedianaCActivityT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:36:9-55
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:36:19-52
+activity#com.example.geomats.MedianaBActivityT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:37:9-55
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:37:19-52
+activity#com.example.geomats.MedianaAActivityT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:38:9-55
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:38:19-52
 activity#com.example.geomats.MedianaActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:27:9-54
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:39:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:27:19-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:39:19-51
 activity#com.example.geomats.BisettriceCActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:28:9-58
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:40:9-58
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:28:19-55
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:40:19-55
 activity#com.example.geomats.BisettriceBActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:29:9-58
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:41:9-58
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:29:19-55
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:41:19-55
 activity#com.example.geomats.BisettriceAActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:30:9-58
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:42:9-58
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:30:19-55
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:42:19-55
 activity#com.example.geomats.BisettriceActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:31:9-57
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:43:9-57
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:31:19-54
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:43:19-54
 activity#com.example.geomats.RaggioCirExinscT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:32:9-54
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:44:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:32:19-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:44:19-51
 activity#com.example.geomats.RaggioCirCircosT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:33:9-54
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:45:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:33:19-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:45:19-51
 activity#com.example.geomats.RaggioCirInscActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:34:9-60
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:46:9-60
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:34:19-57
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:46:19-57
 activity#com.example.geomats.AltezzaCSemPT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:35:9-51
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:47:9-51
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:35:19-48
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:47:19-48
 activity#com.example.geomats.AltezzaBSemPT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:36:9-51
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:36:19-48
-activity#com.example.geomats.AltezzaASemPT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:37:9-51
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:37:19-48
-activity#com.example.geomats.AltezzaLatiSemipTB
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:38:9-56
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:38:19-53
-activity#com.example.geomats.AltezzaCActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:39:9-55
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:39:19-52
-activity#com.example.geomats.AltezzaBActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:40:9-55
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:40:19-52
-activity#com.example.geomats.AltezzaAActivityT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:41:9-55
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:41:19-52
-activity#com.example.geomats.AltezzaAreaLatoT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:42:9-54
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:42:19-51
-activity#com.example.geomats.AltezzaTActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:43:9-54
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:43:19-51
-activity#com.example.geomats.AreaLatiPerimetroT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:44:9-56
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:44:19-53
-activity#com.example.geomats.AreaABAltezzaCT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:45:9-53
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:45:19-50
-activity#com.example.geomats.AreaACAltezzaBT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:46:9-53
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:46:19-50
-activity#com.example.geomats.AreaBCAltezzaT
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:47:9-52
-	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:47:19-49
-activity#com.example.geomats.AreaTActivity
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:48:9-51
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:48:19-48
-activity#com.example.geomats.PerimetroTActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:49:9-56
+activity#com.example.geomats.AltezzaASemPT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:49:9-51
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:49:19-53
-activity#com.example.geomats.TriangoloActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:50:9-55
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:49:19-48
+activity#com.example.geomats.AltezzaLatiSemipTB
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:50:9-56
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:50:19-52
-activity#com.example.geomats.DiagonaleRActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:51:9-56
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:50:19-53
+activity#com.example.geomats.AltezzaCActivityT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:51:9-55
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:51:19-53
-activity#com.example.geomats.AltezzaDiagBaseR
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:52:9-54
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:51:19-52
+activity#com.example.geomats.AltezzaBActivityT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:52:9-55
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:52:19-51
-activity#com.example.geomats.AltezzaAreaBaseR
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:53:9-54
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:52:19-52
+activity#com.example.geomats.AltezzaAActivityT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:53:9-55
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:53:19-51
-activity#com.example.geomats.AltezzaPerBaseR
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:54:9-53
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:53:19-52
+activity#com.example.geomats.AltezzaAreaLatoT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:54:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:54:19-50
-activity#com.example.geomats.AltezzaRActivity
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:54:19-51
+activity#com.example.geomats.AltezzaTActivity
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:55:9-54
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:55:19-51
-activity#com.example.geomats.BaseDiagAltR
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:56:9-50
+activity#com.example.geomats.AreaLatiPerimetroT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:56:9-56
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:56:19-47
-activity#com.example.geomats.BaseArAltezR
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:57:9-50
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:56:19-53
+activity#com.example.geomats.AreaABAltezzaCT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:57:9-53
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:57:19-47
-activity#com.example.geomats.BasePerAltR
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:58:9-49
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:57:19-50
+activity#com.example.geomats.AreaACAltezzaBT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:58:9-53
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:58:19-46
-activity#com.example.geomats.BaseRActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:59:9-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:58:19-50
+activity#com.example.geomats.AreaBCAltezzaT
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:59:9-52
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:59:19-48
-activity#com.example.geomats.AreaRActivity
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:59:19-49
+activity#com.example.geomats.AreaTActivity
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:60:9-51
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:60:19-48
-activity#com.example.geomats.PerimetroRActivity
+activity#com.example.geomats.PerimetroTActivity
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:61:9-56
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:61:19-53
-activity#com.example.geomats.RettangoloActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:62:9-56
+activity#com.example.geomats.TriangoloActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:62:9-55
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:62:19-53
-activity#com.example.geomats.DiametroAreaC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:63:9-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:62:19-52
+activity#com.example.geomats.DiagonaleRActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:63:9-56
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:63:19-48
-activity#com.example.geomats.DiametroPerimetroC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:64:9-56
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:63:19-53
+activity#com.example.geomats.AltezzaDiagBaseR
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:64:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:64:19-53
-activity#com.example.geomats.DiametroRaggioC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:65:9-53
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:64:19-51
+activity#com.example.geomats.AltezzaAreaBaseR
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:65:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:65:19-50
-activity#com.example.geomats.DiametroCActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:66:9-55
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:65:19-51
+activity#com.example.geomats.AltezzaPerBaseR
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:66:9-53
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:66:19-52
-activity#com.example.geomats.RaggioAreaC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:67:9-49
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:66:19-50
+activity#com.example.geomats.AltezzaRActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:67:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:67:19-46
-activity#com.example.geomats.RaggioPerimetroC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:68:9-54
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:67:19-51
+activity#com.example.geomats.BaseDiagAltR
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:68:9-50
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:68:19-51
-activity#com.example.geomats.RaggioDiametroC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:69:9-53
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:68:19-47
+activity#com.example.geomats.BaseArAltezR
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:69:9-50
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:69:19-50
-activity#com.example.geomats.RaggioCActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:70:9-53
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:69:19-47
+activity#com.example.geomats.BasePerAltR
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:70:9-49
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:70:19-50
-activity#com.example.geomats.AreaDiametroC
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:70:19-46
+activity#com.example.geomats.BaseRActivity
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:71:9-51
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:71:19-48
-activity#com.example.geomats.AreaRaggioC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:72:9-49
+activity#com.example.geomats.AreaRActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:72:9-51
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:72:19-46
-activity#com.example.geomats.AreaCActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:73:9-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:72:19-48
+activity#com.example.geomats.PerimetroRActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:73:9-56
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:73:19-48
-activity#com.example.geomats.PerimetroDiametroC
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:73:19-53
+activity#com.example.geomats.RettangoloActivity
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:74:9-56
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:74:19-53
-activity#com.example.geomats.PerimetroRaggioC
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:75:9-54
+activity#com.example.geomats.DiametroAreaC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:75:9-51
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:75:19-51
-activity#com.example.geomats.PerimetroCActivity
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:75:19-48
+activity#com.example.geomats.DiametroPerimetroC
 ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:76:9-56
 	android:name
 		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:76:19-53
+activity#com.example.geomats.DiametroRaggioC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:77:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:77:19-50
+activity#com.example.geomats.DiametroCActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:78:9-55
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:78:19-52
+activity#com.example.geomats.RaggioAreaC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:79:9-49
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:79:19-46
+activity#com.example.geomats.RaggioPerimetroC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:80:9-54
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:80:19-51
+activity#com.example.geomats.RaggioDiametroC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:81:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:81:19-50
+activity#com.example.geomats.RaggioCActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:82:9-53
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:82:19-50
+activity#com.example.geomats.AreaDiametroC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:83:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:83:19-48
+activity#com.example.geomats.AreaRaggioC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:84:9-49
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:84:19-46
+activity#com.example.geomats.AreaCActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:85:9-51
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:85:19-48
+activity#com.example.geomats.PerimetroDiametroC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:86:9-56
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:86:19-53
+activity#com.example.geomats.PerimetroRaggioC
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:87:9-54
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:87:19-51
+activity#com.example.geomats.PerimetroCActivity
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:88:9-56
+	android:name
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:88:19-53
 activity#com.example.geomats.DiagonaleAreaQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:77:9-52
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:89:9-52
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:77:19-49
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:89:19-49
 activity#com.example.geomats.DiagonaleLatoQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:78:9-52
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:90:9-52
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:78:19-49
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:90:19-49
 activity#com.example.geomats.DiagonaleQActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:79:9-56
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:91:9-56
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:79:19-53
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:91:19-53
 activity#com.example.geomats.AreaDiagonaleQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:80:9-52
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:92:9-52
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:80:19-49
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:92:19-49
 activity#com.example.geomats.AreaLatoQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:81:9-47
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:93:9-47
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:81:19-44
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:93:19-44
 activity#com.example.geomats.AreaQActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:82:9-51
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:94:9-51
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:82:19-48
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:94:19-48
 activity#com.example.geomats.LatoDiagonaleQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:83:9-52
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:95:9-52
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:83:19-49
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:95:19-49
 activity#com.example.geomats.LatoAreaQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:84:9-47
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:96:9-47
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:84:19-44
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:96:19-44
 activity#com.example.geomats.LatoPerimetroQ
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:85:9-52
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:97:9-52
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:85:19-49
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:97:19-49
 activity#com.example.geomats.LatoQActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:86:9-51
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:98:9-51
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:86:19-48
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:98:19-48
 activity#com.example.geomats.PerimetroQActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:87:9-56
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:99:9-56
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:87:19-53
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:99:19-53
 activity#com.example.geomats.CerchioActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:88:9-53
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:100:9-53
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:88:19-50
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:100:19-50
 activity#com.example.geomats.QuadratoActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:89:9-54
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:101:9-54
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:89:19-51
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:101:19-51
 activity#com.example.geomats.MainActivity
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:90:9-96:20
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:102:9-108:20
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:90:19-47
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:102:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:91:13-95:29
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:103:13-107:29
 action#android.intent.action.MAIN
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:92:17-69
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:104:17-69
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:92:25-66
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:104:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:94:17-77
+ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:106:17-77
 	android:name
-		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:94:27-74
+		ADDED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml:106:27-74
 uses-sdk
 INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Alessandro/Desktop/Geomats/app/src/main/AndroidManifest.xml
